@@ -7,6 +7,6 @@
 > [3] Each group much have at least two merged events with conflict incidents. \
 > [4] Repository must be public or private (but add krisada.phr@cdti.ac.th as collaborator)
 ### Team Members
-- Tawan Kriangkraiwanich StudentID 6310301018
-- Yannapat Sakanupong StudentID 6310301019
-- Rutdanai Ratsumran StudentID 6310301028
+- Tawan Kriangkraiwanich StudentID 6310301018 (Github : hexadi)
+- Yannapat Sakanupong StudentID 6310301019 (Github : YannapatS)
+- Rutdanai Ratsumran StudentID 6310301028 (Github : RutdanaiRatsumran)
